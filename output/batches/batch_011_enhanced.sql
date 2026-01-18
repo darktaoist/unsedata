@@ -1,8 +1,275 @@
-INSERT INTO public.tojung (id,num,total,jan,feb,mar,apr,may,jun,jul,aug,sep,oct,nov,"dec",created_at,nation) VALUES (167,'011','동풍이 서서히 풀리고 마른 나무가 봄을 만났으니 이제야 좋은 운이 돌아왔습니다. 재물운이 왕성하고 경영하는 일은 늦더라도 성공하겠습니다. 작게 시작해도 크게 돌아오니 비록 미미하게 출발해도 크게 성공하며, 모든 재앙이 사라지고 복이 찾아오니 마음이 편안하겠습니다. 명월이 중천에 떠 있으니 천지가 밝고 분명하여 어두운 구석이 없고 세상만사가 두루 편안하겠습니다. 큰일을 도모하는데 어찌 작은 걱정으로 주저하겠습니까? 멀리에서 귀인을 만나면 몸은 영화롭고 집은 편안해지겠습니다. 한번 큰 변화를 일으켜 새 일을 도모하려는 뜻이 있으니 때로는 의심과 걱정이 있겠으나 주저하지 않고 진행하면 반드시 보람이 따르겠습니다. 봄에는 다소 지체되더라도 7, 8월경에는 성공하겠습니다. 좋은 인연을 만나면 더욱 쉽게 풀려 나가겠습니다. 동쪽과 남쪽 방향이 길하고, 건강 면에서는 혈액순환과 관절에 특히 유의하십시오.','봄날이 따뜻해지니 새가 가까운 누각으로 날아들어 보금자리를 틀고 새끼를 치는 격이니 모든 재앙이 사라지고 복덕이 돌아와 반드시 경사가 있겠습니다. 새로운 시작에 좋은 때입니다. 동쪽 방향이 길하고, 호흡기 건강에 유의하십시오.','봄동산에 복숭아꽃과 오얏꽃이 때를 만나 서로 만발하여 봄기운을 띄우니 신수가 대길해져 재물이 스스로 들어오겠습니다. 그러나 친구나 친척 또한 가족의 일로 마음이 상하는 일도 있겠습니다. 남쪽 방향이 길하고, 눈과 시력에 유의하십시오.','높은 산에 들어가 마음을 가다듬고 소원을 빌거나 기도를 드리면 반드시 안정을 얻게 됩니다. 바라는 일이 쉽게 되지 않더라도 항상 기도하는 마음을 놓지 마십시오. 마음을 하나로 정하지 못하고 흔들림이 많으니 동분서주하며 바쁘기만 하겠습니다. 북쪽 방향이 무난하고, 심장 건강에 유의하십시오.','일이 성공되기 전에 구설수가 따르기 쉬우니 조심하십시오. 업행에 신경을 쓴다면 운이 역전되어 모든 일이 순조롭게 이루어지겠습니다. 이미 험준한 산길을 지나와 큰 길에 들어섰는데 무슨 걱정이 있겠습니까? 앞날은 대로를 걷게 됩니다. 동쪽 방향이 길하고, 소화기에 유의하십시오.','입을 조심하십시오. 아무리 옳은 말이라도 한번 실수하면 시비에 말려들게 됩니다. 입을 봉하고 본 것도 보지 않은 듯, 들은 것도 듣지 않은 것처럼 지내십시오. 타향에서 친구를 만났더라도 말을 조심하고 친구를 사귀더라도 신중을 기해야 합니다. 서쪽 방향이 무난하고, 간 건강에 유의하십시오.','이성을 가까이하면 구설수가 생기기 쉽습니다. 정해진 길을 묵묵히 걸어가야지 한눈을 팔면 구설수에 오르게 됩니다. 새로운 사람을 사귀려 하지 말고 멀리 출행하여 새 것을 도모하지 마십시오. 편안하게 분수를 지키는 것이 가장 좋은 방법입니다. 북쪽 방향이 무난하고, 신장에 유의하십시오.','봄동산에 피었던 꽃들이 드디어 때를 만나 열매를 맺는 것과 같은 운으로서, 만약 출세의 길이 열리지 않는다면 자손이나 가족에게 경사가 생기겠습니다. 그러나 잠병이 도사리고 있으니 건강관리에 신경 쓰고 매사를 서두르지 말며 차분하게 기다리고 지혜롭게 대처하십시오. 남동쪽이 길하고, 관절에 유의하십시오.','어려움이 있는 듯하면서도 실상은 보이거나 잡히지 않으니 반드시 불안함을 느끼게 됩니다. 그러나 기다렸다면 재물이 스스로 들어올 것이니 경거망동하지 마십시오. 처음은 어렵게 막히는 듯하지만 풀려 나중에는 반드시 좋게 되고 어려운 때는 귀인의 도움이 있으니 기대하십시오. 동쪽 방향이 길하고, 뼈와 치아에 유의하십시오.','세월의 흐름에 따라 재물이 스스로 물러나기 시작하니 성사를 하거나 남의 시비에 빠지지 마십시오. 손재수가 있겠습니다. 손재수는 반드시 사람을 잘못 사귐으로 인한 것이니 친한 사람일수록 경계하지 말고 인간을 존중해 준다면 흉을 면하겠습니다. 서북쪽이 무난하고, 피부 건강에 유의하십시오.','솜이 날아갔는지 분주하기만 합니다. 할 일은 많은데 신수가 불리하니 잠병을 조심하십시오. 너무 분주한 틈에 건강을 해치기 쉽습니다. 충분한 휴식이 필요합니다. 남쪽 방향이 무난하고, 폐와 기관지에 유의하십시오.','운수가 불리하고 마음도 편치 않으니 동북 지방에는 출행하지 않는 것이 좋겠습니다. 집안에 있으면서 하던 일을 지켜나가면 이롭겠지만, 분수를 지키지 않고 엉뚱한 것을 탐하면 불리하겠습니다. 마음이 편안하면 분수를 지키고 출행을 삼가며 집안에서 하던 일을 지키는 것이 좋습니다. 서쪽 방향이 무난하고, 위장에 유의하십시오.','새 일을 도모하지 마십시오. 헛되이 마음만 쓰고 지치게 됩니다. 몸은 왕성하고 뜻은 크지만 재물이 없으니 길함과 흉함이 반반이겠습니다. 많이 나가고 적게 들어오니 도리어 손해 같지 않겠습니까? 마음과 재물이 동시에 있어야만 경영할 수 있으니 조급하게 서두르지 마십시오. 북쪽 방향이 무난하고, 허리와 등에 유의하십시오.','2025-03-02 03:02:00.953234+00','k');
+INSERT INTO public.tojung (id,num,total,jan,feb,mar,apr,may,jun,jul,aug,sep,oct,nov,"dec",created_at,nation) VALUES (167,'011','✨ 1. 2026년 종합 운세
+2026년 병오년은 동풍이 서서히 불어와 얼어붙었던 대지를 녹이고, 마른 나무가 봄을 만나 새순을 틀어내듯 희망찬 운세가 펼쳐지는 해입니다. 한동안 어려웠던 시기를 지나 이제야 좋은 기운이 돌아오기 시작합니다. 작은 것으로 시작하더라도 결국 큰 성과로 이어지는 길운의 해이니, 인내심을 가지고 꾸준히 노력하시면 반드시 보람을 거두게 됩니다. 명월이 중천에 떠오른 것처럼 천지가 밝고 분명하여 어두운 구석이 없으니, 세상만사가 두루두루 편안하고 순조롭게 흘러가겠습니다. 다만 상반기보다는 하반기, 특히 7월과 8월경에 본격적인 성공의 결실을 맺게 되니 조급해하지 마시고 때를 기다리십시오. 변화와 도전의 기회가 찾아올 것이며, 멀리서 귀인을 만나면 몸은 영화롭고 집안은 편안해질 것입니다.
 
-INSERT INTO public.tojung (id,num,total,jan,feb,mar,apr,may,jun,jul,aug,sep,oct,nov,"dec",created_at,nation) VALUES (309,'011','The east wind gradually loosens and the withered tree meets spring—good fortune has finally returned. Wealth luck is vigorous, and business ventures will succeed even if late. Starting small brings big returns, so even humble beginnings lead to great success. All calamities disappear and blessings arrive, bringing peace of mind. The bright moon hangs in mid-heaven, so heaven and earth are bright and clear with no dark corners, and all worldly matters will be comfortable. When planning great things, why hesitate over small worries? Meeting a benefactor from afar brings glory to the body and peace to the home. There is intention to make a big change and pursue new ventures, so there will be doubts and worries at times, but proceeding without hesitation will surely bring rewards. Though spring may bring some delays, success comes around July and August. Meeting good connections makes things even easier to resolve. East and south directions are auspicious. For health, pay special attention to blood circulation and joints.','As spring warms up, birds fly to nearby pavilions to build nests and raise young—all calamities disappear and blessings return, surely bringing celebrations. This is a good time for new beginnings. The east is auspicious; mind your respiratory health.','Peach blossoms and plum blossoms in the spring garden meet their time and bloom together, radiating spring energy. Fortune becomes greatly auspicious, and wealth comes naturally. However, friends, relatives, or family matters may cause heartache. The south is auspicious; mind your eyes and vision.','Going to high mountains to calm your mind, make wishes, or pray will surely bring stability. Even if your desires are not easily fulfilled, never let go of your prayerful heart. Unable to settle your mind with much wavering, you will be busy running here and there. The north is manageable; mind your heart health.','Gossip easily follows before work succeeds, so be careful. If you pay attention to your conduct, fortune reverses and all matters proceed smoothly. Having already passed rugged mountain paths and entered the main road, what is there to worry about? The future walks the highway. The east is auspicious; mind your digestive health.','Guard your mouth. No matter how right your words, one mistake entangles you in disputes. Keep your mouth sealed; act as if you saw nothing you saw, heard nothing you heard. Even meeting friends in foreign lands, be careful with words; even making friends abroad, exercise caution. The west is manageable; mind your liver health.','Getting close to the opposite sex easily breeds gossip. Walk the set path steadfastly; wandering eyes lead to gossip. Do not try to make new acquaintances; do not travel far to pursue new things. Keeping your station comfortably is the best method. The north is manageable; mind your kidney health.','Like flowers that bloomed in the spring garden finally meeting their time and bearing fruit—if the path to success doesn''t open, celebrations come to descendants or family. However, illness lurks, so mind your health care. Don''t rush matters; wait calmly and cope wisely. The southeast is auspicious; mind your joints.','Though difficulties seem present, the reality is neither visible nor graspable, surely causing unease. But if you wait, wealth will come naturally—do not act rashly. At first, it seems blocked and difficult, but it resolves and becomes good later. In difficult times, a benefactor''s help comes—look forward to it. The east is auspicious; mind your bones and teeth.','As time passes, wealth begins to withdraw naturally. Do not create trouble or fall into others'' disputes—financial loss awaits. Financial loss necessarily comes from wrong associations, so rather than being wary of close friends, respecting humanity helps avoid misfortune. The northwest is manageable; mind your skin health.','Busy as if cotton has blown away. Much to do but fortune is unfavorable—beware of illness. Easy to harm health amid excessive busyness. Sufficient rest is needed. The south is manageable; mind your lungs and bronchi.','Fortune is unfavorable and mind is uncomfortable—better not to travel to the northeast region. Staying home and maintaining current work is beneficial, but coveting wrong things without keeping your station is disadvantageous. If comfortable, keep your station, refrain from travel, and maintain household work. The west is manageable; mind your stomach.','Do not pursue new ventures. You will only tire your heart uselessly. The body is vigorous and ambitions are great, but without wealth, fortune and misfortune are half and half. Much goes out and little comes in—doesn''t it seem like a loss? Business requires both heart and wealth together—do not rush hastily. The north is manageable; mind your back and waist.','2025-03-02 03:02:00.953234+00','e');
+✨ 2. 💰 재물운과 재테크 운
+2026년 재물운은 왕성하게 흐르며 경영하는 일은 비록 늦더라도 결국 성공으로 이어집니다. 작게 투자하고 크게 수확하는 형국이니, 처음엔 작은 규모로 시작하더라도 시간이 지나며 점점 커지는 재물의 흐름을 경험하게 됩니다. 2월과 3월에는 자연스럽게 재물이 들어오는 길한 시기이며, 특히 7월과 8월에는 그동안의 노력이 결실을 맺어 큰 수입이 생길 수 있습니다. 투자는 급하게 서두르지 말고 천천히 준비하여 하반기에 실행하는 것이 유리합니다. 멀리 있는 사람과의 사업이나 협력이 재물을 가져다주니 인맥을 넓게 관리하십시오. 다만 9월에는 손재수가 있을 수 있으니 불필요한 지출을 삼가고, 사람을 잘못 사귀어 금전적 손실을 입지 않도록 주의가 필요합니다.
 
-INSERT INTO public.tojung (id,num,total,jan,feb,mar,apr,may,jun,jul,aug,sep,oct,nov,"dec",created_at,nation) VALUES (451,'011','東風が徐々に緩み、枯れ木が春に出会い、ようやく良い運が戻ってきました。財運が旺盛で、経営することは遅くても成功するでしょう。小さく始めても大きく返ってくるので、たとえささやかなスタートでも大きく成功し、すべての災いが消えて福が訪れ、心が安らかになります。明月が中天に懸かり、天地が明るく明瞭で暗い隅がなく、世の中のすべてが広く安らかになります。大きなことを図るのに、どうして小さな心配でためらうでしょうか？遠くから貴人に会えば、体は栄え家は安らかになります。一度大きな変化を起こして新しい事を図ろうという意志があるので、時には疑いや心配がありますが、ためらわずに進めば必ず報われます。春には多少遅れても、7、8月頃には成功します。良い縁に出会えばさらに簡単に解けていきます。東と南の方角が吉です。健康面では血液循環と関節に特に気を付けてください。','春の日が暖かくなると、鳥が近くの楼閣に飛んできて巣を作り雛を育てるように、すべての災いが消えて福徳が戻り、必ず慶事があります。新しい始まりに良い時です。東が吉です。呼吸器の健康に気を付けてください。','春の庭で桃の花とスモモの花が時を得て互いに満開になり、春の気配を漂わせ、運勢が大吉となり財物が自然と入ってきます。しかし、友人や親戚また家族のことで心を痛めることもあるでしょう。南が吉です。目と視力に気を付けてください。','高い山に入って心を整え、願いを祈ったり祈祷を捧げれば、必ず安定を得られます。望みが簡単に叶わなくても、常に祈る心を離さないでください。心を一つに定められず揺れが多いので、東奔西走して忙しいだけになります。北が無難です。心臓の健康に気を付けてください。','仕事が成功する前に口舌の災いが起きやすいので注意してください。業行に気を付ければ、運が逆転してすべてが順調に進みます。すでに険しい山道を過ぎて大道に入ったのに、何を心配するでしょうか？将来は大通りを歩むことになります。東が吉です。消化器に気を付けてください。','口を慎んでください。どんなに正しい言葉でも一度間違えれば是非に巻き込まれます。口を封じ、見たものも見なかったように、聞いたものも聞かなかったように過ごしてください。異郷で友人に会っても言葉を慎み、友人を作っても慎重にしなければなりません。西が無難です。肝臓の健康に気を付けてください。','異性に近づくと口舌の災いが起きやすいです。決まった道をひたすら歩むべきで、よそ見をすれば口舌の災いに上がります。新しい人を作ろうとせず、遠く出かけて新しいことを図らないでください。安らかに分をわきまえることが最も良い方法です。北が無難です。腎臓に気を付けてください。','春の庭に咲いた花がついに時を得て実を結ぶような運勢で、もし出世の道が開かれなければ、子孫や家族に慶事が生じます。しかし、潜伏する病気があるので、健康管理に気を付け、すべてを急がず、落ち着いて待ち、賢く対処してください。東南が吉です。関節に気を付けてください。','困難があるようでいて、実際は見えたり掴んだりできないので、必ず不安を感じることになります。しかし、待てば財物が自然と入ってくるので、軽挙妄動しないでください。最初は難しく塞がれるようでも、解けて後には必ず良くなり、困難な時は貴人の助けがあるので期待してください。東が吉です。骨と歯に気を付けてください。','時の流れに従って財物が自然と退き始めるので、成事を行ったり他人の是非に巻き込まれないでください。損財があります。損財は必ず人を間違って付き合ったことによるものなので、親しい人ほど警戒せず、人を尊重すれば凶を免れます。北西が無難です。肌の健康に気を付けてください。','綿が飛んでいったかのように忙しいばかりです。やることは多いのに運勢が不利なので、潜伏する病気に注意してください。忙しすぎる合間に健康を損ないやすいです。十分な休息が必要です。南が無難です。肺と気管支に気を付けてください。','運勢が不利で心も落ち着かないので、東北地方へは出かけない方がよいでしょう。家にいてやっていることを守れば有益ですが、分をわきまえず見当違いのものを求めれば不利です。心が安らかなら分をわきまえ、出かけることを控え、家でやっていることを守るのがよいです。西が無難です。胃に気を付けてください。','新しいことを図らないでください。虚しく心だけ使って疲れます。体は旺盛で志は大きいですが財物がないので、吉と凶が半々です。多く出て少なく入るので、却って損ではありませんか？心と財物が同時にあってこそ経営できるので、焦って急がないでください。北が無難です。腰と背中に気を付けてください。','2025-03-02 03:02:00.953234+00','j');
+✨ 3. 🏆 직업운과 승진운
+직업운은 전반적으로 상승세를 타고 있으나, 본격적인 성과는 하반기에 나타납니다. 큰 일을 꾸미고자 하는 뜻이 있으니 작은 염려로 주저하지 마시고 담대하게 추진하십시오. 3월에는 다소 지체되는 감이 있을 수 있으나, 7월과 8월경에는 확실한 성공을 거두게 됩니다. 좋은 인연과 귀인의 도움을 받으면 일이 더욱 쉽게 풀려나가니, 평소 인간관계 관리에 신경 쓰시기 바랍니다. 새로운 프로젝트나 사업 확장을 계획하고 있다면 망설이지 말고 진행하되, 충분한 준비와 계획을 세운 후 실행에 옮기는 것이 중요합니다. 직장인은 상반기에는 준비 기간으로 삼고, 하반기에 적극적으로 자신의 능력을 발휘하면 인정받을 기회가 옵니다.
 
-INSERT INTO public.tojung (id,num,total,jan,feb,mar,apr,may,jun,jul,aug,sep,oct,nov,"dec",created_at,nation) VALUES (380,'011','东风渐渐解冻，枯木逢春，好运终于回来了。财运旺盛，经营的事即使晚些也会成功。小本起家也能大有回报，虽然起步微小也能大获成功，所有灾祸消散，福气降临，心情安宁。明月当空，天地明亮清晰，没有黑暗角落，世间万事都安泰。图谋大事，怎能因小忧虑而犹豫？在远方遇到贵人，身荣家安。有意一次大变革开创新事业，虽然有时会有疑虑担忧，但毫不犹豫地推进必有回报。春天可能稍有延迟，但七八月份会成功。遇到好缘分会更容易解决。东方和南方吉利。健康方面要特别注意血液循环和关节。','春日温暖，鸟儿飞到近处的楼阁筑巢育雏，所有灾祸消散，福德回归，必有喜事。这是新开始的好时机。东方吉利，注意呼吸系统健康。','春园里桃花李花逢时盛开，散发春天气息，运势大吉，财物自然而来。但朋友、亲戚或家人的事可能会让人伤心。南方吉利，注意眼睛和视力。','进入高山静心许愿或祈祷，必能获得安定。即使愿望不易实现，也不要放弃祈祷的心。心神不定摇摆不已，会东奔西走忙碌不堪。北方尚可，注意心脏健康。','事情成功前容易招惹口舌是非，要小心。如果注意行为，运气逆转，万事顺利。已经走过崎岖山路进入大道，还有什么好担心的？前途将走大路。东方吉利，注意消化系统。','管好嘴巴。不管多么正确的话，一旦失误就会卷入是非。守口如瓶，看到的当没看到，听到的当没听到。即使在他乡遇到朋友也要谨言慎行，交友也要慎重。西方尚可，注意肝脏健康。','接近异性容易招惹口舌是非。要沿着既定的路默默前行，东张西望会惹来是非。不要试图结交新人，不要远行图谋新事。安分守己是最好的办法。北方尚可，注意肾脏。','如同春园里开放的花终于结出果实的运势，如果仕途不开，子孙或家人会有喜事。但潜伏着疾病，要注意健康管理，凡事不急躁，冷静等待，明智应对。东南方吉利，注意关节。','似乎有困难，但实际上看不到也抓不住，必定会感到不安。但等待的话财物会自然而来，不要轻举妄动。开始似乎困难重重，但解开后必会好转，困难时有贵人相助，请期待。东方吉利，注意骨骼和牙齿。','随着时间推移财物开始退去，不要成事或陷入他人是非。会有损财。损财必定是交友不慎所致，对越亲近的人越不要警惕，尊重他人就能避免凶险。西北方尚可，注意皮肤健康。','忙得像棉絮飞走了一样。事情很多但运势不利，要小心潜伏的疾病。太忙容易损害健康。需要充足休息。南方尚可，注意肺和支气管。','运势不利心也不安，最好不要去东北地区。在家守着现有的事业有益，但不守本分贪图别的东西就不利。如果心安，就守本分、避免出行、守住家中事业为好。西方尚可，注意胃部。','不要图谋新事。只会白费心思疲惫不堪。身体旺盛志向远大但没有财物，吉凶各半。支出多收入少，岂不是亏损？心和财同时具备才能经营，不要急躁。北方尚可，注意腰背。','2025-03-02 03:02:00.953234+00','c');
+✨ 4. ❤️ 연애운과 결혼운
+연애운은 2월과 3월에 특히 좋습니다. 복된 인연이 찾아올 수 있으니 적극적으로 모임에 참여하고 새로운 사람들을 만나십시오. 다만 6월과 7월에는 이성과의 관계에서 구설수가 생기기 쉬우니 신중하게 행동하고, 오해받을 만한 행동은 삼가야 합니다. 정해진 궤도를 벗어나 한눈을 팔면 불필요한 소문에 휘말릴 수 있으니 분수를 지키는 것이 중요합니다. 기혼자는 배우자와의 관계가 전반적으로 안정적이나, 6월에는 서로 오해가 생기지 않도록 소통에 신경 쓰십시오. 8월에는 가족 중 누군가에게 경사가 생길 수 있으니 기쁜 마음으로 맞이하십시오. 연말에는 조용히 지내며 가정의 평화를 지키는 것이 길합니다.
 
+✨ 5. 🏥 건강운
+건강운은 전반적으로 양호하나 몇 가지 주의할 점이 있습니다. 8월과 10월에는 잠병이 도사리고 있으니 작은 증상도 방치하지 말고 조기에 치료받으시기 바랍니다. 특히 과로로 인한 피로 누적을 조심해야 하며, 충분한 휴식과 수면을 취하는 것이 중요합니다. 10월에는 분주함 속에서 건강을 해치기 쉬우니 일과 휴식의 균형을 잘 맞추십시오. 스트레스 관리가 특히 중요한 해이므로 명상이나 산책, 취미 활동을 통해 마음의 평안을 유지하시기 바랍니다. 정기 검진을 통해 건강 상태를 점검하고, 규칙적인 운동으로 체력을 단련하면 큰 문제없이 건강한 한 해를 보낼 수 있습니다.
+
+✨ 6. 👥 인간관계운
+인간관계는 전반적으로 원만하나, 말조심이 특히 중요한 해입니다. 4월에는 입을 조심해야 하며, 아무리 옳은 말이라도 한번 실수하면 시비에 말려들 수 있습니다. 보지 않은 듯, 듣지 않은 듯 신중하게 처신하는 지혜가 필요합니다. 타향이나 객지에서 친구를 만나더라도 말을 조심하고, 새로운 사람을 사귈 때도 신중을 기해야 합니다. 9월에는 사람을 잘못 사귀어 손재수를 당할 수 있으니, 친한 사람일수록 금전 거래는 조심하고 인간을 존중하는 마음으로 대하면 흉을 면할 수 있습니다. 반면 멀리 있는 귀인이 큰 도움을 주는 시기이므로 원거리 인맥을 소중히 관리하고, 어려울 때 도움을 청하는 것을 주저하지 마십시오.
+
+✨ 7. 📚 학업/자기계발운
+학업과 자기계발에는 좋은 기운이 흐르나, 마음을 하나로 정하지 못하고 흔들리는 경향이 있습니다. 3월에는 높은 산에 올라 마음을 가다듬고 목표를 분명히 하면 안정을 얻을 수 있습니다. 새로운 것을 배우고자 하는 의욕은 있으나 실행에 옮기기까지 망설임이 많으니, 기도하는 마음으로 꾸준히 노력하면 반드시 좋은 결과를 얻게 됩니다. 7월과 8월에는 그동안 준비했던 시험이나 자격증 취득에 성공할 가능성이 높습니다. 12월에는 새로운 일을 시작하기보다는 지금까지 해온 것을 정리하고 다음 해를 준비하는 시간으로 삼는 것이 좋습니다. 몸은 왕성하고 뜻은 크지만 조급하게 서두르지 말고 차근차근 준비하는 자세가 필요합니다.','1월은 봄의 기운이 조금씩 다가오며 새로운 시작을 준비하는 달입니다. 봄날이 따뜻해지듯 부지런히 날아든 제비가 누각에 보금자리를 틀고 새끼를 치듯, 모든 재앙이 사라지고 복덕이 서서히 돌아오기 시작합니다. 어려웠던 시기를 지나 이제 안정을 되찾아가는 과정이니 조급해하지 말고 차분히 준비하십시오.
+
+재물운은 아직 크게 움직이지 않으나 안정적입니다. 큰 투자보다는 저축과 재정 정리에 힘쓰는 것이 현명합니다. 직장에서는 묵묵히 자신의 일을 해나가며 신뢰를 쌓는 시기입니다. 상사나 동료와의 관계를 돈독히 하고, 올해의 계획을 차근차근 세우십시오.
+
+건강은 양호하나 겨울철 감기 예방에 신경 쓰시고, 따뜻하게 몸을 보호하십시오. 인간관계는 조용하고 편안합니다. 새해 인사를 나누며 좋은 관계를 유지하되, 지나치게 나서지 않는 것이 좋습니다. 동쪽 방향이 길하며, 행운의 색상은 연두색과 흰색입니다.','2월은 봄동산에 복숭아꽃과 오얏꽃이 때를 만나 서로 만발하며 봄기운을 띄우는 달입니다. 신수가 대길하여 재물이 스스로 들어오는 기쁜 시기이니, 긍정적인 마음으로 기회를 맞이하십시오. 자연스럽게 좋은 일이 찾아오니 감사하는 마음을 가지십시오.
+
+재물운이 특히 좋은 달입니다. 예상하지 못한 수입이나 보너스가 생길 수 있으니 잘 관리하여 저축하십시오. 직장에서는 업무가 순조롭게 진행되며, 새로운 프로젝트를 시작하기에 좋은 시기입니다. 적극적으로 아이디어를 제시하면 좋은 반응을 얻을 수 있습니다.
+
+다만 친구나 친척, 가족의 일로 마음이 상하는 일이 있을 수 있습니다. 타인의 문제에 지나치게 개입하지 말고, 적당한 거리를 유지하면서 도움을 주는 지혜가 필요합니다. 건강은 좋으나 환절기 감기에 주의하십시오. 남동쪽 방향이 길하며, 행운의 색상은 분홍색과 연두색입니다.','3월은 마음을 가다듬고 방향을 정해야 하는 중요한 달입니다. 높은 산에 올라 마음을 정화하고 소원을 빌거나, 조용한 곳에서 명상하며 기도하면 마음의 안정을 얻을 수 있습니다. 바라는 일이 쉽게 이루어지지 않더라도 기도하는 마음을 놓지 말고 꾸준히 노력하십시오.
+
+직업운에서는 마음을 하나로 정하지 못하고 이것저것 신경 쓰느라 동분서주하며 바쁜 시기입니다. 우선순위를 명확히 하고 중요한 일부터 차근차근 처리하는 것이 필요합니다. 너무 많은 일을 한꺼번에 벌이지 말고, 집중력을 발휘하십시오.
+
+재물운은 아직 본격적으로 움직이지 않으나 준비하는 시기입니다. 투자 계획이 있다면 충분한 조사와 준비를 하되, 실행은 조금 미루는 것이 좋습니다. 건강 관리에 신경 쓰고, 스트레스를 풀 수 있는 활동을 찾으십시오. 북동쪽 방향이 길하며, 행운의 색상은 하늘색과 흰색입니다.','4월은 특히 말조심이 필요한 달입니다. 일이 성공하기 전에 구설수가 따르기 쉬우니 입을 조심하고 신중하게 행동하십시오. 이미 험준한 산길을 지나 큰길에 들어섰으니, 앞으로는 평탄한 대로를 걷게 될 것입니다. 과거의 어려움을 극복했으니 자신감을 가지되 교만하지 마십시오.
+
+직장에서는 업무에 신경을 쓰면 모든 일이 순조롭게 이루어집니다. 성실하고 꾸준한 태도로 임하면 주변의 신뢰를 얻을 수 있습니다. 다만 말실수로 인한 오해가 생기지 않도록 특히 조심해야 합니다. 중요한 회의나 발표가 있다면 사전에 충분히 준비하십시오.
+
+재물운은 안정적이나 큰 변화는 없습니다. 현상 유지에 집중하고, 새로운 투자는 시기를 기다리는 것이 좋습니다. 인간관계에서 갈등이 생기지 않도록 언행을 조심하고, 보지 않은 듯 듣지 않은 듯 처신하는 지혜가 필요합니다. 서쪽 방향이 길하며, 행운의 색상은 노란색과 주황색입니다.','5월은 입을 더욱 조심해야 하는 달입니다. 아무리 옳은 말이라도 한번 실수하면 시비에 말려들기 쉬우니, 침묵이 금이라는 말을 명심하십시오. 본 것도 보지 않은 듯, 들은 것도 듣지 않은 것처럼 지내는 것이 현명합니다. 타향이나 객지에서 친구를 만나더라도 말을 조심하고, 새로운 인연을 만들 때도 신중을 기하십시오.
+
+직장에서는 동료나 상사와의 대화에서 특히 조심해야 합니다. 불필요한 말은 하지 않고, 업무에 집중하는 것이 최선입니다. 회의나 토론에서도 신중하게 발언하고, 타인의 의견을 존중하는 태도를 보이십시오.
+
+재물운은 평범합니다. 큰 수입이나 지출 없이 안정적으로 흘러갑니다. 인간관계에서 오는 스트레스를 최소화하기 위해 혼자만의 시간을 가지며 마음을 다스리십시오. 건강은 양호하나 스트레스 관리에 신경 쓰고, 명상이나 요가 같은 활동이 도움이 됩니다. 북쪽 방향이 길하며, 행운의 색상은 검은색과 남색입니다.','6월은 이성 관계에 특히 주의가 필요한 달입니다. 이성을 가까이하면 구설수가 생기기 쉬우니, 정해진 궤도를 벗어나지 말고 신중하게 행동하십시오. 한눈을 팔거나 경솔한 행동을 하면 불필요한 소문에 휘말릴 수 있으니 분수를 지키는 것이 중요합니다.
+
+사람을 새로 사귀려 하지 말고, 멀리 출행하여 새로운 일을 도모하는 것도 삼가십시오. 현재 하고 있는 일에 집중하고, 편안하게 분수를 지키는 것이 가장 좋은 방법입니다. 무리하게 새로운 것을 시작하면 오히려 손해를 볼 수 있습니다.
+
+직장에서는 안정적으로 업무를 수행하되, 새로운 프로젝트나 변화는 피하는 것이 좋습니다. 재물운도 평범하니 현상 유지에 만족하십시오. 건강은 양호하나 과로를 피하고 충분한 휴식을 취하십시오. 남쪽 방향을 피하고, 행운의 색상은 흰색과 회색입니다.','7월은 봄동산에 피었던 꽃들이 드디어 때를 만나 열매를 맺는 달입니다. 그동안의 노력이 결실을 맺어 큰 성과를 거두게 되니 기쁜 마음으로 맞이하십시오. 승진이나 포상 같은 좋은 소식이 들려올 수 있으며, 자손이나 가족에게도 경사가 생길 수 있습니다.
+
+직장에서는 중요한 프로젝트가 성공적으로 마무리되거나, 오랫동안 준비했던 일이 인정받는 시기입니다. 자신감을 가지고 적극적으로 능력을 발휘하십시오. 다만 교만하지 말고 겸손한 태도를 유지하는 것이 중요합니다.
+
+재물운이 크게 상승하여 수입이 늘어나거나 보너스를 받을 수 있습니다. 다만 잠병이 도사리고 있으니 건강 관리에 각별히 신경 쓰십시오. 바쁜 와중에도 충분한 휴식을 취하고, 무리하지 않도록 주의하십시오. 매사를 서두르지 말고 차분하게 처리하는 지혜가 필요합니다. 동쪽 방향이 길하며, 행운의 색상은 녹색과 금색입니다.','8월은 계속해서 좋은 운세가 이어지는 달입니다. 험난한 산이 있는 듯하면서도 실상은 길이 열려 있으니, 두려워하지 말고 차분히 기다리면 재물이 스스로 들어올 것입니다. 경거망동하지 말고 신중하게 행동하십시오.
+
+처음에는 일이 막히는 듯 어렵게 느껴질 수 있으나, 시간이 지나면 자연스럽게 풀리며 좋은 결과로 이어집니다. 어려운 순간에는 귀인이 나타나 도움을 주니 주변 사람들과의 관계를 소중히 하십시오. 포기하지 않고 꾸준히 노력하면 반드시 성공을 거둡니다.
+
+재물운이 왕성하여 7월에 이어 계속 좋은 흐름을 보입니다. 투자나 사업 확장을 고려했다면 이달이 좋은 시기입니다. 다만 건강 관리는 계속 신경 써야 하며, 과로로 인한 피로가 누적되지 않도록 주의하십시오. 서북쪽 방향이 길하며, 행운의 색상은 금색과 은색입니다.','9월은 재물운이 점차 약해지기 시작하니 주의가 필요한 달입니다. 세월의 흐름에 따라 재물이 스스로 물러나는 시기이므로, 무리한 투자나 사업 확장은 삼가십시오. 특히 손재수가 있으니 불필요한 지출을 줄이고 절약하는 것이 중요합니다.
+
+손재수는 대부분 사람을 잘못 사귄 데서 비롯되니, 금전 거래나 보증은 절대 삼가고 친한 사람일수록 경계하는 마음을 가지십시오. 인간을 존중하고 정직하게 대하면 큰 흉을 면할 수 있습니다. 새로운 사람을 사귀거나 큰 약속을 하지 마십시오.
+
+직장에서는 안정적으로 업무를 수행하되, 새로운 도전이나 변화는 피하는 것이 좋습니다. 현재 하고 있는 일을 지키며 착실히 해나가는 것이 최선입니다. 건강은 양호하나 스트레스 관리에 신경 쓰십시오. 남쪽 방향을 피하고, 행운의 색상은 갈색과 베이지입니다.','10월은 매우 분주한 달입니다. 할 일은 많은데 신수가 불리하여 이것저것 신경 쓰느라 바쁘기만 합니다. 염부솜이 날아간 듯 정신없이 움직이게 되니, 우선순위를 정하고 중요한 일부터 처리하십시오.
+
+너무 분주한 가운데 건강을 해치기 쉬우니 특히 잠병을 조심해야 합니다. 피로가 누적되지 않도록 충분한 휴식을 취하고, 무리한 일정은 피하십시오. 과로로 인한 질병이 생길 수 있으니 몸의 신호를 무시하지 마시고 조기에 대처하십시오.
+
+재물운은 평범하나 바쁜 가운데 자잘한 지출이 늘어날 수 있습니다. 계획적으로 지출을 관리하고, 충동구매를 삼가십시오. 직장에서는 업무량이 많아 힘들 수 있으나, 차근차근 처리하면 무난히 넘길 수 있습니다. 서쪽 방향이 길하며, 행운의 색상은 흰색과 회색입니다.','11월은 신수가 불리하고 마음도 편치 않은 달입니다. 특히 동북 방향으로의 출행은 삼가는 것이 좋으며, 집안에 있으면서 하던 일을 지켜나가는 것이 이롭습니다. 분수를 지키지 않고 엉뚱한 것을 탐하여 손을 벌리면 오히려 손해를 보게 됩니다.
+
+마음이 편안하지 않고 불안한 감정이 들 수 있으니, 무리하게 새로운 일을 시작하지 말고 현재 하고 있는 일에 집중하십시오. 출행을 금하고 집안에서 조용히 지내며 심신의 안정을 찾는 것이 좋습니다. 명상이나 독서 같은 활동으로 마음을 다스리십시오.
+
+재물운도 좋지 않으니 투자나 큰 지출은 피하고, 현금을 보유하며 안전하게 관리하십시오. 직장에서는 말썽을 일으키지 않도록 조심하고, 동료와의 갈등을 피하십시오. 건강 관리에 신경 쓰고, 따뜻하게 지내십시오. 남쪽 방향이 길하며, 행운의 색상은 빨간색과 주황색입니다.','12월은 한 해를 정리하는 달입니다. 새로운 일을 시작하기보다는 지금까지 해온 것을 마무리하고 다음 해를 준비하는 시간으로 삼으십시오. 몸은 왕성하고 뜻은 크지만 재물이 부족하니 길함과 흉함이 반반입니다.
+
+많이 지출하고 적게 수입이 들어오는 형국이니, 절약하고 계획적으로 재정을 관리하십시오. 도리어 손해만 보는 것 같아 답답할 수 있으나, 조급하게 서두르지 마시고 내년을 위한 준비 기간으로 삼으십시오. 마음과 재물이 동시에 있어야 경영을 할 수 있으니 지금은 참고 기다리는 것이 현명합니다.
+
+직장에서는 한 해 동안의 업무를 정리하고, 내년 계획을 세우는 데 집중하십시오. 건강은 연말 모임이나 과로로 인해 피로할 수 있으니 충분한 휴식을 취하십시오. 한 해를 감사하는 마음으로 마무리하고, 새해를 맞이할 준비를 하십시오. 동쪽 방향이 길하며, 행운의 색상은 파란색과 녹색입니다.','2025-03-02 03:02:00.953234+00','k');
+
+INSERT INTO public.tojung (id,num,total,jan,feb,mar,apr,may,jun,jul,aug,sep,oct,nov,"dec",created_at,nation) VALUES (309,'011','✨ 1. 2026 Overall Fortune
+The year 2026 brings a fortune where the east wind gradually blows to thaw the frozen earth, and like a dry tree meeting spring and sprouting new buds, a hopeful destiny unfolds. After a difficult period, good energy finally begins to return. Even starting with small things will eventually lead to great achievements, so if you persevere with patience and steady effort, you will surely reap rewards. Like the bright moon rising at its zenith, heaven and earth are clear and bright with no dark corners, so all worldly matters will flow smoothly and comfortably. However, rather than the first half, you will bear the fruits of genuine success in the second half, especially around July and August, so don''t be impatient and wait for the right time. Opportunities for change and challenge will come, and if you meet benefactors from afar, your body will be glorious and your household will be at peace.
+
+✨ 2. 💰 Wealth and Financial Fortune
+2026 wealth fortune flows vigorously, and business endeavors will ultimately succeed even if delayed. It''s a situation of investing small and harvesting big, so even if you start with a small scale initially, you will experience an increasingly growing flow of wealth over time. February and March are auspicious periods when wealth naturally comes in, and especially in July and August, your efforts will bear fruit and bring significant income. For investments, it''s advantageous to prepare slowly without rushing and execute in the second half. Business or cooperation with distant people will bring wealth, so manage your network broadly. However, there may be financial loss in September, so refrain from unnecessary spending and be careful not to suffer monetary losses by associating with the wrong people.
+
+✨ 3. 🏆 Career and Promotion Fortune
+Career fortune is generally on the rise, but substantial results will appear in the second half. You have intentions to undertake great things, so don''t hesitate with small worries and push forward boldly. There may be some delays in March, but you will achieve definite success around July and August. If you receive help from good relationships and benefactors, work will proceed more easily, so pay attention to managing relationships in daily life. If you''re planning new projects or business expansion, don''t hesitate to proceed, but it''s important to execute after sufficient preparation and planning. For employees, use the first half as a preparation period, and if you actively demonstrate your abilities in the second half, opportunities for recognition will come.
+
+✨ 4. ❤️ Love and Marriage Fortune
+Love fortune is particularly good in February and March. Blessed relationships may come, so actively participate in gatherings and meet new people. However, in June and July, gossip from relationships with the opposite sex can easily arise, so act prudently and avoid behavior that might cause misunderstandings. If you deviate from the set path and look elsewhere, you may get caught up in unnecessary rumors, so maintaining boundaries is important. Married individuals will have generally stable relationships with spouses, but in June, be careful with communication to avoid mutual misunderstandings. In August, someone in the family may have a celebration, so welcome it with joy. At year''s end, it''s auspicious to stay quiet and maintain family peace.
+
+✨ 5. 🏥 Health Fortune
+Health fortune is generally good but there are a few points to note. In August and October, hidden illnesses may lurk, so don''t neglect even small symptoms and seek early treatment. Especially be careful of accumulated fatigue from overwork, and it''s important to get sufficient rest and sleep. In October, it''s easy to harm health amid busyness, so balance work and rest well. Since stress management is particularly important this year, maintain peace of mind through meditation, walking, or hobbies. If you check your health status through regular checkups and train your stamina with regular exercise, you can spend a healthy year without major problems.
+
+✨ 6. 👥 Relationship Fortune
+Relationships are generally harmonious, but being careful with words is particularly important this year. In April, you must be careful with your mouth, and even if you say something right, one mistake can get you involved in disputes. The wisdom of acting prudently as if you haven''t seen or heard is necessary. Even when meeting friends in other places or regions, be careful with your words, and be cautious when making new acquaintances. In September, you may suffer financial loss by associating with the wrong people, so the closer the person, the more careful with monetary transactions, and if you treat humans with respect, you can avoid misfortune. On the other hand, since distant benefactors will provide great help during this period, cherish long-distance connections and don''t hesitate to ask for help when in difficulty.
+
+✨ 7. 📚 Academic and Self-Development Fortune
+Good energy flows for academics and self-development, but there''s a tendency to waver without setting your mind on one thing. In March, if you climb high mountains to calm your mind and clarify goals, you can gain stability. There''s enthusiasm to learn new things but much hesitation before taking action, so if you persistently effort with a prayerful heart, you will surely obtain good results. In July and August, there''s high possibility of success in exams or certifications you''ve been preparing for. In December, rather than starting new things, it''s better to organize what you''ve done so far and use it as time to prepare for the next year. Though your body is vigorous and intentions are great, you need an attitude of preparing step by step without rushing impatiently.','January is a month when spring energy gradually approaches and you prepare for new beginnings. Like the warming spring days and diligent swallows flying in to build nests in pavilions and raise young, all disasters disappear and blessings slowly begin to return. It''s a process of regaining stability after a difficult period, so don''t be impatient and prepare calmly.
+
+Wealth fortune is not yet moving significantly but is stable. It''s wise to focus on savings and financial organization rather than large investments. At work, it''s a period to build trust by silently doing your work. Strengthen relationships with superiors and colleagues, and carefully set plans for the year.
+
+Health is good but pay attention to preventing winter colds and keep your body warm. Relationships are quiet and comfortable. Exchange New Year''s greetings and maintain good relationships, but it''s better not to be overly forward. The eastern direction is auspicious, with lucky colors being light green and white.','February is a month when peach and plum blossoms in the spring garden meet their time and bloom together, creating spring energy. Fortune is greatly auspicious and wealth comes in on its own, so welcome opportunities with a positive mind. Good things come naturally, so have a grateful heart.
+
+Wealth fortune is particularly good this month. Unexpected income or bonuses may come, so manage well and save. At work, tasks proceed smoothly, and it''s a good time to start new projects. If you actively present ideas, you can get good responses.
+
+However, you may be hurt by matters involving friends, relatives, or family. Don''t get overly involved in others'' problems, and wisdom is needed to help while maintaining appropriate distance. Health is good but be careful of seasonal colds. The southeastern direction is auspicious, with lucky colors being pink and light green.','March is an important month to calm your mind and set direction. If you climb high mountains to purify your mind and make wishes, or meditate and pray in quiet places, you can gain mental stability. Even if desired things don''t come easily, don''t let go of the prayerful heart and persistently effort.
+
+In career fortune, it''s a busy period running here and there worrying about this and that without setting your mind on one thing. It''s necessary to clarify priorities and handle important matters first step by step. Don''t undertake too many things at once and demonstrate concentration.
+
+Wealth fortune is not yet moving in earnest but is a preparation period. If you have investment plans, conduct sufficient research and preparation, but it''s better to postpone execution a bit. Pay attention to health management and find activities to relieve stress. The northeastern direction is auspicious, with lucky colors being sky blue and white.','April is a month when being especially careful with words is necessary. Gossip easily follows before work succeeds, so be careful with your mouth and act prudently. You''ve already passed the rugged mountain path and entered the main road, so ahead you''ll walk a smooth highway. Since you''ve overcome past difficulties, have confidence but don''t be arrogant.
+
+At work, if you pay attention to tasks, everything will proceed smoothly. With a sincere and steady attitude, you can gain trust from those around you. However, you must be especially careful not to create misunderstandings from verbal mistakes. If you have important meetings or presentations, prepare sufficiently in advance.
+
+Wealth fortune is stable but there are no major changes. Focus on maintaining status quo, and it''s better to wait for the right time for new investments. To avoid conflicts in relationships, be careful with words and actions, and wisdom is needed to act as if you haven''t seen or heard. The western direction is auspicious, with lucky colors being yellow and orange.','May is a month to be even more careful with your mouth. No matter how right your words, one mistake easily gets you involved in disputes, so remember that silence is golden. It''s wise to live as if you haven''t seen what you saw and haven''t heard what you heard. Even when meeting friends in other places or regions, be careful with words, and be cautious when making new connections.
+
+At work, you must be especially careful in conversations with colleagues or superiors. It''s best not to speak unnecessarily and focus on work. Even in meetings or discussions, speak prudently and show an attitude of respecting others'' opinions.
+
+Wealth fortune is ordinary. It flows stably without major income or expenditure. To minimize stress from relationships, have time alone and control your mind. Health is good but pay attention to stress management, and activities like meditation or yoga are helpful. The northern direction is auspicious, with lucky colors being black and navy.','June is a month requiring particular caution with romantic relationships. If you get close to the opposite sex, gossip easily arises, so don''t deviate from the set path and act prudently. If you look elsewhere or act rashly, you may get caught up in unnecessary rumors, so maintaining boundaries is important.
+
+Don''t try to make new acquaintances, and also refrain from traveling far to pursue new things. Focus on current work, and the best method is to comfortably maintain boundaries. If you forcefully start new things, you may rather suffer losses.
+
+At work, perform tasks stably but avoid new projects or changes. Wealth fortune is also ordinary, so be satisfied with maintaining status quo. Health is good but avoid overwork and get sufficient rest. Avoid the southern direction, with lucky colors being white and gray.','July is a month when flowers that bloomed in the spring garden finally meet their time and bear fruit. Your efforts bear fruit and bring great achievements, so welcome it with joy. Good news like promotions or awards may come, and descendants or family may have celebrations.
+
+At work, important projects are successfully completed, or long-prepared work is recognized. Have confidence and actively demonstrate your abilities. However, it''s important not to be arrogant and maintain a humble attitude.
+
+Wealth fortune rises greatly and income may increase or you may receive bonuses. However, hidden illnesses may lurk, so pay special attention to health management. Even amid busyness, get sufficient rest and be careful not to overdo it. Wisdom is needed to handle everything calmly without rushing. The eastern direction is auspicious, with lucky colors being green and gold.','August is a month when good fortune continues. Though there seems to be a treacherous mountain, in reality the path is open, so don''t be afraid and if you wait calmly, wealth will come in on its own. Don''t act rashly and behave prudently.
+
+At first, work may seem blocked and difficult, but as time passes, it naturally resolves and leads to good results. In difficult moments, benefactors appear to help, so cherish relationships with people around you. If you don''t give up and persistently effort, you will surely achieve success.
+
+Wealth fortune is vigorous and continues the good flow from July. If you''ve considered investment or business expansion, this month is a good time. However, you must continue to pay attention to health management, and be careful that fatigue from overwork doesn''t accumulate. The northwestern direction is auspicious, with lucky colors being gold and silver.','September is a month requiring caution as wealth fortune gradually weakens. As wealth naturally withdraws with the flow of time, refrain from excessive investments or business expansion. Especially since there''s financial loss, it''s important to reduce unnecessary spending and save.
+
+Financial loss mostly stems from associating with wrong people, so absolutely refrain from monetary transactions or guarantees, and the closer the person, have a cautious heart. If you respect humans and treat them honestly, you can avoid great misfortune. Don''t make new acquaintances or big promises.
+
+At work, perform tasks stably but avoid new challenges or changes. It''s best to steadily continue guarding current work. Health is good but pay attention to stress management. Avoid the southern direction, with lucky colors being brown and beige.','October is a very busy month. There''s much to do but fortune is unfavorable, so you''re just busy worrying about this and that. Like scattered cotton flying away, you''ll move frantically, so set priorities and handle important matters first.
+
+Amid too much busyness, it''s easy to harm health, so especially be careful of hidden illnesses. Get sufficient rest so fatigue doesn''t accumulate, and avoid excessive schedules. Diseases from overwork may arise, so don''t ignore body signals and address them early.
+
+Wealth fortune is ordinary but small expenditures may increase amid busyness. Manage spending systematically and refrain from impulse buying. At work, the workload may be heavy and difficult, but if you handle it step by step, you can pass through without problems. The western direction is auspicious, with lucky colors being white and gray.','November is a month when fortune is unfavorable and the mind is not at ease. Especially refrain from traveling to the northeast direction, and it''s beneficial to stay home and continue guarding your work. If you don''t maintain boundaries and covet wrong things by reaching out, you''ll rather suffer losses.
+
+Your mind may be uncomfortable and anxious feelings may arise, so don''t forcefully start new things and focus on current work. Prohibit traveling and quietly stay home to find mental and physical stability. Control your mind through activities like meditation or reading.
+
+Wealth fortune is also not good, so avoid investments or large expenditures, hold cash, and manage safely. At work, be careful not to cause trouble and avoid conflicts with colleagues. Pay attention to health management and stay warm. The southern direction is auspicious, with lucky colors being red and orange.','December is a month to wrap up the year. Rather than starting new things, use it as time to finish what you''ve done and prepare for the next year. Though your body is vigorous and intentions are great, wealth is lacking, so fortune and misfortune are half and half.
+
+It''s a situation of spending much and receiving little income, so save and manage finances systematically. It may feel frustrating as if you''re only suffering losses, but don''t rush impatiently and use it as a preparation period for next year. Since you can only manage when you have both mind and wealth simultaneously, it''s wise to endure and wait now.
+
+At work, focus on organizing the year''s tasks and setting plans for next year. Health may be tired from year-end gatherings or overwork, so get sufficient rest. Finish the year with a grateful heart and prepare to welcome the new year. The eastern direction is auspicious, with lucky colors being blue and green.','2025-03-02 03:02:00.953234+00','e');
+
+INSERT INTO public.tojung (id,num,total,jan,feb,mar,apr,may,jun,jul,aug,sep,oct,nov,"dec",created_at,nation) VALUES (451,'011','✨ 1. 2026年総合運勢
+2026年丙午年は東風が徐々に吹いて凍りついた大地を溶かし、枯れた木が春に出会って新芽を出すように、希望に満ちた運勢が広がる年です。しばらく困難だった時期を過ぎて、ようやく良い気運が戻り始めます。小さなことから始めても結局は大きな成果につながる吉運の年なので、忍耐心を持って着実に努力すれば必ず報いを得られます。明月が中天に昇るように天地が明るく明瞭で暗い隅がないので、世の中のあらゆることが円満で順調に流れていくでしょう。ただし上半期よりは下半期、特に7月と8月頃に本格的な成功の実を結ぶので焦らずに時を待ってください。変化と挑戦の機会が訪れ、遠くから貴人に会えば身は栄華で家は安らかになるでしょう。
+
+✨ 2. 💰 財運と財テク運
+2026年の財運は旺盛に流れ、経営することは遅くても結局成功につながります。小さく投資して大きく収穫する形勢なので、最初は小規模で始めても時間が経つにつれて次第に大きくなる財物の流れを経験します。2月と3月には自然に財物が入ってくる吉な時期で、特に7月と8月にはこれまでの努力が実を結んで大きな収入が生じる可能性があります。投資は急いで進めず、ゆっくり準備して下半期に実行するのが有利です。遠くにいる人との事業や協力が財物をもたらすので人脈を広く管理してください。ただし9月には損財数がある可能性があるので不要な支出を控え、人を間違えて付き合って金銭的損失を被らないよう注意が必要です。
+
+✨ 3. 🏆 職業運と昇進運
+職業運は全般的に上昇傾向にありますが、本格的な成果は下半期に現れます。大きなことを企てる意志があるので小さな心配で躊躇せず大胆に推進してください。3月にはやや遅れる感がある可能性がありますが、7月と8月頃には確実な成功を収めます。良い縁と貴人の助けを受ければ仕事がさらに容易に進むので、普段から人間関係の管理に気を配ってください。新しいプロジェクトや事業拡張を計画しているなら躊躇せず進めますが、十分な準備と計画を立てた後に実行に移すことが重要です。会社員は上半期を準備期間とし、下半期に積極的に自分の能力を発揮すれば認められる機会が来ます。
+
+✨ 4. ❤️ 恋愛運と結婚運
+恋愛運は2月と3月が特に良いです。福のある縁が訪れる可能性があるので積極的に集まりに参加して新しい人々に会ってください。ただし6月と7月には異性との関係で噂が生じやすいので慎重に行動し、誤解を招くような行動は控えるべきです。定められた軌道を外れてよそ見をすれば不要な噂に巻き込まれる可能性があるので分をわきまえることが重要です。既婚者は配偶者との関係が全般的に安定していますが、6月にはお互い誤解が生じないようコミュニケーションに気を配ってください。8月には家族の誰かに慶事が生じる可能性があるので喜びの心で迎えてください。年末には静かに過ごして家庭の平和を守ることが吉です。
+
+✨ 5. 🏥 健康運
+健康運は全般的に良好ですがいくつか注意すべき点があります。8月と10月には潜在的な病が潜んでいるので小さな症状も放置せず早期に治療を受けてください。特に過労による疲労の蓄積に注意すべきで、十分な休息と睡眠を取ることが重要です。10月には忙しい中で健康を害しやすいので仕事と休息のバランスをよく取ってください。ストレス管理が特に重要な年なので瞑想や散歩、趣味活動を通じて心の平安を維持してください。定期検診で健康状態をチェックし、規則的な運動で体力を鍛えれば大きな問題なく健康な一年を過ごせます。
+
+✨ 6. 👥 人間関係運
+人間関係は全般的に円満ですが、言葉に注意することが特に重要な年です。4月には口を慎むべきで、どんなに正しい言葉でも一度失敗すれば是非に巻き込まれる可能性があります。見なかったように、聞かなかったように慎重に振る舞う知恵が必要です。他郷や客地で友人に会っても言葉を慎み、新しい人を付き合う時も慎重を期すべきです。9月には人を間違えて付き合って損財数に遭う可能性があるので、親しい人ほど金銭取引は慎重にし、人間を尊重する心で接すれば凶を免れることができます。一方、遠くにいる貴人が大きな助けを与える時期なので遠距離の人脈を大切に管理し、困難な時に助けを求めることを躊躇しないでください。
+
+✨ 7. 📚 学業/自己啓発運
+学業と自己啓発には良い気運が流れますが、心を一つに定められず揺れる傾向があります。3月には高い山に登って心を整え目標を明確にすれば安定を得られます。新しいことを学ぼうとする意欲はありますが実行に移すまで躊躇が多いので、祈る心で着実に努力すれば必ず良い結果を得られます。7月と8月にはこれまで準備してきた試験や資格取得に成功する可能性が高いです。12月には新しいことを始めるよりこれまでしてきたことを整理して次の年を準備する時間とするのが良いです。体は旺盛で意志は大きいですが焦って進めず着実に準備する姿勢が必要です。','1月は春の気運が少しずつ近づき新しい始まりを準備する月です。春の日が暖かくなるように勤勉に飛んできた燕が楼閣に巣を作って雛を育てるように、すべての災いが消えて福徳が徐々に戻り始めます。困難だった時期を過ぎて今安定を取り戻していく過程なので焦らず落ち着いて準備してください。
+
+財運はまだ大きく動きませんが安定的です。大きな投資より貯蓄と財政整理に努めるのが賢明です。職場では黙々と自分の仕事をこなして信頼を積む時期です。上司や同僚との関係を親密にし、今年の計画を着実に立ててください。
+
+健康は良好ですが冬の風邪予防に気を配り、温かく体を保護してください。人間関係は静かで快適です。新年の挨拶を交わして良い関係を維持しますが、過度に出しゃばらないのが良いです。東の方向が吉で、幸運の色は黄緑と白です。','2月は春の園に桃の花と李の花が時を得て互いに満開になり春の気運を漂わせる月です。神数が大吉で財物が自ら入ってくる嬉しい時期なので、肯定的な心で機会を迎えてください。自然に良いことが訪れるので感謝する心を持ってください。
+
+財運が特に良い月です。予想しなかった収入やボーナスが生じる可能性があるのでよく管理して貯蓄してください。職場では業務が順調に進行し、新しいプロジェクトを始めるのに良い時期です。積極的にアイデアを提示すれば良い反応を得られます。
+
+ただし友人や親戚、家族のことで心を痛めることがあるかもしれません。他人の問題に過度に介入せず、適当な距離を維持しながら助ける知恵が必要です。健康は良いですが季節の変わり目の風邪に注意してください。南東の方向が吉で、幸運の色はピンクと黄緑です。','3月は心を整え方向を定めるべき重要な月です。高い山に登って心を浄化し願いを唱えたり、静かな所で瞑想して祈れば心の安定を得られます。望むことが容易に成就しなくても祈る心を手放さず着実に努力してください。
+
+職業運では心を一つに定められずあれこれ気を使って東奔西走する忙しい時期です。優先順位を明確にして重要なことから着実に処理することが必要です。あまりに多くのことを一度に広げず、集中力を発揮してください。
+
+財運はまだ本格的に動きませんが準備する時期です。投資計画があれば十分な調査と準備をしますが、実行は少し延期するのが良いです。健康管理に気を配り、ストレスを解消できる活動を探してください。北東の方向が吉で、幸運の色は空色と白です。','4月は特に言葉に注意が必要な月です。仕事が成功する前に噂が付きやすいので口を慎み慎重に行動してください。すでに険しい山道を過ぎて大きな道に入ったので、これからは平坦な大路を歩くことになります。過去の困難を克服したので自信を持ちますが傲慢にならないでください。
+
+職場では業務に気を配ればすべてのことが順調に成就します。誠実で着実な態度で臨めば周囲の信頼を得られます。ただし言い間違いによる誤解が生じないよう特に注意すべきです。重要な会議や発表があれば事前に十分に準備してください。
+
+財運は安定的ですが大きな変化はありません。現状維持に集中し、新しい投資は時期を待つのが良いです。人間関係で葛藤が生じないよう言動を慎み、見なかったように聞かなかったように振る舞う知恵が必要です。西の方向が吉で、幸運の色は黄色とオレンジです。','5月は口をさらに慎むべき月です。どんなに正しい言葉でも一度失敗すれば是非に巻き込まれやすいので、沈黙は金という言葉を肝に銘じてください。見たことも見なかったように、聞いたことも聞かなかったように過ごすのが賢明です。他郷や客地で友人に会っても言葉を慎み、新しい縁を作る時も慎重を期してください。
+
+職場では同僚や上司との会話で特に注意すべきです。不要な言葉はせず、業務に集中するのが最善です。会議や討論でも慎重に発言し、他人の意見を尊重する態度を見せてください。
+
+財運は平凡です。大きな収入や支出なく安定的に流れます。人間関係から来るストレスを最小化するため一人の時間を持って心を整えてください。健康は良好ですがストレス管理に気を配り、瞑想やヨガのような活動が助けになります。北の方向が吉で、幸運の色は黒と紺です。','6月は異性関係に特に注意が必要な月です。異性に近づけば噂が生じやすいので、定められた軌道を外れず慎重に行動してください。よそ見をしたり軽率な行動をすれば不要な噂に巻き込まれる可能性があるので分をわきまえることが重要です。
+
+新しく人を付き合おうとせず、遠くに出行して新しいことを図ることも控えてください。現在している仕事に集中し、楽に分をわきまえるのが最も良い方法です。無理に新しいことを始めればかえって損をする可能性があります。
+
+職場では安定的に業務を遂行しますが、新しいプロジェクトや変化は避けるのが良いです。財運も平凡なので現状維持に満足してください。健康は良好ですが過労を避けて十分な休息を取ってください。南の方向を避け、幸運の色は白と灰色です。','7月は春の園に咲いた花々がついに時を得て実を結ぶ月です。これまでの努力が実を結んで大きな成果を収めるので喜びの心で迎えてください。昇進や表彰のような良い知らせが聞こえる可能性があり、子孫や家族にも慶事が生じる可能性があります。
+
+職場では重要なプロジェクトが成功裏に終わったり、長く準備してきたことが認められる時期です。自信を持って積極的に能力を発揮してください。ただし傲慢にならず謙虚な態度を維持することが重要です。
+
+財運が大きく上昇して収入が増えたりボーナスを受け取れる可能性があります。ただし潜在的な病が潜んでいるので健康管理に格別に気を配ってください。忙しい中でも十分な休息を取り、無理しないよう注意してください。万事を急がず落ち着いて処理する知恵が必要です。東の方向が吉で、幸運の色は緑と金色です。','8月は引き続き良い運勢が続く月です。険しい山があるようでも実状は道が開いているので、恐れず落ち着いて待てば財物が自ら入ってくるでしょう。軽率に行動せず慎重に振る舞ってください。
+
+最初は仕事が塞がれるように難しく感じられる可能性がありますが、時間が経てば自然に解決して良い結果につながります。困難な瞬間には貴人が現れて助けてくれるので周囲の人々との関係を大切にしてください。諦めず着実に努力すれば必ず成功を収めます。
+
+財運が旺盛で7月に続いて良い流れを見せます。投資や事業拡張を考慮したならこの月が良い時期です。ただし健康管理は引き続き気を配るべきで、過労による疲労が蓄積しないよう注意してください。西北の方向が吉で、幸運の色は金色と銀色です。','9月は財運が次第に弱まり始めるので注意が必要な月です。歳月の流れに従って財物が自ら退く時期なので、無理な投資や事業拡張は控えてください。特に損財数があるので不要な支出を減らして節約することが重要です。
+
+損財数はほとんど人を間違えて付き合ったことから生じるので、金銭取引や保証は絶対に控え、親しい人ほど警戒する心を持ってください。人間を尊重して正直に接すれば大きな凶を免れることができます。新しい人を付き合ったり大きな約束をしないでください。
+
+職場では安定的に業務を遂行しますが、新しい挑戦や変化は避けるのが良いです。現在している仕事を守って着実に進めることが最善です。健康は良好ですがストレス管理に気を配ってください。南の方向を避け、幸運の色は茶色とベージュです。','10月は非常に忙しい月です。やることは多いのに神数が不利であれこれ気を使って忙しいばかりです。塩の綿が飛んだように慌ただしく動くことになるので、優先順位を決めて重要なことから処理してください。
+
+あまりに忙しい中で健康を害しやすいので特に潜在的な病に注意すべきです。疲労が蓄積しないよう十分な休息を取り、無理なスケジュールは避けてください。過労による疾病が生じる可能性があるので体の信号を無視せず早期に対処してください。
+
+財運は平凡ですが忙しい中で細かい支出が増える可能性があります。計画的に支出を管理し、衝動買いを控えてください。職場では業務量が多くて大変かもしれませんが、着実に処理すれば無難に乗り越えられます。西の方向が吉で、幸運の色は白と灰色です。','11月は神数が不利で心も快適でない月です。特に東北方向への出行は控えるのが良く、家にいながら行ってきた仕事を守っていくのが利益です。分をわきまえず間違ったものを貪って手を広げればかえって損をすることになります。
+
+心が快適でなく不安な感情が生じる可能性があるので、無理に新しいことを始めず現在している仕事に集中してください。出行を禁じて家で静かに過ごして心身の安定を見つけるのが良いです。瞑想や読書のような活動で心を整えてください。
+
+財運も良くないので投資や大きな支出は避け、現金を保有して安全に管理してください。職場では問題を起こさないよう注意し、同僚との葛藤を避けてください。健康管理に気を配り、温かく過ごしてください。南の方向が吉で、幸運の色は赤とオレンジです。','12月は一年を整理する月です。新しいことを始めるよりこれまでしてきたことを仕上げて次の年を準備する時間としてください。体は旺盛で意志は大きいですが財物が不足するので吉と凶が半々です。
+
+多く支出して少なく収入が入る形勢なので、節約して計画的に財政を管理してください。かえって損だけするようで鬱々とするかもしれませんが、焦って進めず来年のための準備期間としてください。心と財物が同時にあってこそ経営できるので今は我慢して待つのが賢明です。
+
+職場では一年間の業務を整理し、来年の計画を立てることに集中してください。健康は年末の集まりや過労で疲れる可能性があるので十分な休息を取ってください。一年を感謝する心で締めくくり、新年を迎える準備をしてください。東の方向が吉で、幸運の色は青と緑です。','2025-03-02 03:02:00.953234+00','j');
+
+INSERT INTO public.tojung (id,num,total,jan,feb,mar,apr,may,jun,jul,aug,sep,oct,nov,"dec",created_at,nation) VALUES (380,'011','✨ 1. 2026年综合运势
+2026年丙午年东风徐徐吹来融化冰冻的大地,如枯木逢春萌发新芽,展现充满希望的运势之年。经过一段困难时期,终于开始迎来好运气。即使从小事开始最终也会带来巨大成就,所以若能怀抱耐心坚持不懈地努力,必将获得回报。如明月当空,天地明亮清晰毫无阴暗角落,世间万事都将圆满顺利地进行。不过比起上半年,下半年尤其是7月和8月左右将结出真正成功的果实,所以不要焦急耐心等待时机。变化与挑战的机会将会到来,若能遇见远方贵人,则身荣家安。
+
+✨ 2. 💰 财运与理财运
+2026年财运旺盛流通,经营之事虽有延迟但终将成功。小投入大收获的局面,即使最初规模较小,随着时间推移也会经历财富逐渐增长的过程。2月和3月是财富自然而来的吉祥时期,特别是7月和8月期间努力将结出硕果带来可观收入。投资不要急于求成,慢慢准备在下半年实施更为有利。与远方之人的生意或合作将带来财富,所以要广泛管理人脉。但9月可能有破财之虞,需节制不必要的开支,小心不要因结交错误的人而遭受金钱损失。
+
+✨ 3. 🏆 职业运与晋升运
+职业运总体呈上升趋势,但真正的成果将在下半年显现。有意谋划大事就不要因小顾虑而犹豫,应大胆推进。3月可能稍有延迟,但7月和8月左右将取得确实的成功。若得良缘和贵人相助,工作将更加顺利,所以平时要注意维护人际关系。若计划新项目或事业扩张,不要犹豫大胆推进,但在充分准备和计划后再执行很重要。上班族可将上半年作为准备期,下半年积极展现自己的能力就会有被认可的机会。
+
+✨ 4. ❤️ 恋爱运与婚姻运
+恋爱运在2月和3月特别好。可能遇到有福之缘,应积极参加聚会结识新朋友。但6月和7月容易因异性关系产生流言蜚语,需谨慎行事,避免引起误会的行为。若偏离既定轨道四处张望,可能卷入不必要的谣言,所以守住本分很重要。已婚者与配偶关系总体稳定,但6月要注意沟通避免产生误解。8月家中可能有人遇喜事,应以喜悦之心迎接。年末宜安静度过守护家庭和平。
+
+✨ 5. 🏥 健康运
+健康运总体良好但有几点需要注意。8月和10月潜伏暗疾,即使小症状也不要放任,应及早治疗。特别要小心过劳导致的疲劳积累,充分休息和睡眠很重要。10月在繁忙中容易损害健康,需平衡好工作与休息。压力管理在今年特别重要,通过冥想、散步、兴趣爱好等活动保持心灵平安。通过定期体检了解健康状况,通过规律运动锻炼体力,就能度过健康无虞的一年。
+
+✨ 6. 👥 人际关系运
+人际关系总体和睦,但谨言慎行在今年特别重要。4月要小心说话,即使是正确的话一旦失误也可能卷入是非。需要如未见未闻般谨慎处世的智慧。即使在他乡遇见朋友也要小心言辞,结交新朋友时也要慎重。9月可能因结交错人而遭遇破财,越是亲近之人越要小心金钱往来,以尊重之心对待他人就能避免凶险。另一方面远方贵人将给予很大帮助,所以要珍惜远距离人脉,遇到困难时不要犹豫寻求帮助。
+
+✨ 7. 📚 学业/自我提升运
+学业和自我提升有良好气运流动,但有无法专心一致摇摆不定的倾向。3月若登高山整理心绪明确目标就能获得安定。虽有学习新事物的意欲但在付诸实践前犹豫颇多,若以祈祷之心坚持努力必将获得好结果。7月和8月期间准备的考试或资格证取得成功可能性很高。12月与其开始新事物,不如整理至今所做的并用作准备来年的时间更好。虽然身体旺盛意志坚定,但需要不急不躁稳步准备的态度。','1月是春天气息渐渐临近准备新开始的月份。如春日渐暖勤劳的燕子飞来楼阁筑巢育雏,所有灾祸消散福德徐徐回归。经过困难时期正在恢复稳定的过程,不要焦急沉着准备。
+
+财运尚未大幅波动但很稳定。与其大额投资不如专注储蓄和财务整理更为明智。职场上默默做好自己的工作积累信任的时期。加深与上司和同事的关系,稳步制定今年的计划。
+
+健康良好但要注意预防冬季感冒,温暖地保护身体。人际关系安静舒适。交换新年问候维持良好关系,但不要过于张扬为好。东方为吉,幸运色为浅绿色和白色。','2月是春园中桃花李花逢时竞相绽放散发春意的月份。神数大吉财富自来的喜悦时期,应以积极心态迎接机遇。好事自然降临,应怀感恩之心。
+
+财运特别好的月份。可能有意外收入或奖金,应妥善管理储蓄。职场工作顺利进行,是开始新项目的好时机。积极提出想法能得到良好反响。
+
+但可能因朋友、亲戚、家人之事而烦心。不要过度介入他人问题,需要保持适当距离提供帮助的智慧。健康良好但要注意换季感冒。东南方为吉,幸运色为粉色和浅绿色。','3月是整理心绪确定方向的重要月份。登上高山净化心灵许愿,或在安静处冥想祈祷可获得心灵安定。即使所愿之事不易成就,也不要放弃祈祷之心坚持努力。
+
+职业运方面无法专心一致为这为那操心东奔西走的忙碌时期。需明确优先顺序从重要事务稳步处理。不要一次铺开太多事务,发挥专注力。
+
+财运尚未正式启动但属准备时期。若有投资计划应充分调查准备,但执行稍作推迟为好。注意健康管理,寻找能缓解压力的活动。东北方为吉,幸运色为天蓝色和白色。','4月是特别需要谨言慎行的月份。工作成功之前容易招惹是非,需小心言辞谨慎行事。既已走过崎岖山路进入大道,前方将是平坦大路。克服了过去的困难应有自信但不可骄傲。
+
+职场若专注工作一切都将顺利进行。以诚恳踏实的态度能获得周围信任。但要特别小心不要因口误造成误会。若有重要会议或发表应事先充分准备。
+
+财运稳定但无大变化。专注维持现状,新投资等待时机为好。为避免人际关系冲突需谨慎言行,需要如未见未闻般处世的智慧。西方为吉,幸运色为黄色和橙色。','5月是要更加小心言辞的月份。无论多么正确的话一旦失误也易卷入是非,需谨记沉默是金。如未见所见、未闻所闻般度过是明智之举。即使在他乡遇见朋友也要小心言辞,结交新缘分时也要慎重。
+
+职场与同事或上司对话时要特别小心。不说不必要的话,专注工作最好。即使在会议或讨论中也要谨慎发言,表现出尊重他人意见的态度。
+
+财运平平。无大进大出稳定流动。为了最小化人际关系带来的压力,拥有独处时间调整心态。健康良好但要注意压力管理,冥想或瑜伽等活动有所帮助。北方为吉,幸运色为黑色和深蓝色。','6月是需特别注意异性关系的月份。若接近异性易生流言蜚语,不要偏离既定轨道谨慎行事。若四处张望或轻率行事可能卷入不必要的谣言,守住本分很重要。
+
+不要尝试结交新朋友,也要避免远行谋划新事。专注当前工作,安守本分是最好的方法。勉强开始新事物反而可能遭受损失。
+
+职场稳定执行任务,但最好避免新项目或变化。财运也平平无奇,满足于维持现状即可。健康良好但要避免过劳充分休息。避开南方,幸运色为白色和灰色。','7月是春园花朵终于逢时结果的月份。努力结出硕果取得巨大成就,应以喜悦之心迎接。可能传来晋升或表彰等好消息,子孙或家人也可能遇喜事。
+
+职场重要项目成功完成,或长期准备的工作得到认可的时期。满怀信心积极展现能力。但重要的是不要骄傲保持谦逊态度。
+
+财运大幅上升收入增加或可能获得奖金。但潜伏暗疾需特别注意健康管理。即使在忙碌中也要充分休息,小心不要过度劳累。需要不急不躁沉着处理万事的智慧。东方为吉,幸运色为绿色和金色。','8月是好运持续的月份。虽似有险山但实际道路畅通,不要害怕静心等待财富自会而来。不要轻举妄动谨慎行事。
+
+起初可能感觉工作受阻困难重重,但随时间推移自然化解带来好结果。困难时刻会有贵人出现相助,所以要珍惜与周围人的关系。不放弃坚持努力必将取得成功。
+
+财运旺盛延续7月的良好势头。若考虑投资或事业扩张,本月是好时机。但要持续注意健康管理,小心不要因过劳积累疲劳。西北方为吉,幸运色为金色和银色。','9月是财运逐渐减弱需要注意的月份。随时光流逝财富自然退去的时期,应避免过度投资或事业扩张。特别有破财之虞,节制不必要开支节约很重要。
+
+破财多源于结交错人,金钱往来或担保绝对禁止,越是亲近之人越要警惕。尊重他人诚实相待可避免大凶。不要结交新朋友或做大承诺。
+
+职场稳定执行任务,但最好避免新挑战或变化。坚守当前工作踏实推进最好。健康良好但要注意压力管理。避开南方,幸运色为棕色和米色。','10月是非常忙碌的月份。事务繁多但神数不利,为这为那操心只是忙碌。如盐棉飞散般慌乱行动,需确定优先顺序先处理重要事务。
+
+过于忙碌中容易损害健康,特别要小心暗疾。充分休息避免疲劳积累,避开过度日程。可能因过劳生病,不要忽视身体信号及早应对。
+
+财运平平但忙碌中琐碎开支可能增加。计划性地管理支出,避免冲动消费。职场工作量大可能辛苦,但稳步处理可平稳度过。西方为吉,幸运色为白色和灰色。','11月是神数不利心情不畅的月份。特别要避免东北方向出行,留在家中守护已有事业更为有利。不守本分贪图不当之物伸手反而会遭受损失。
+
+心情不舒畅可能产生不安情绪,不要勉强开始新事专注当前工作。禁止出行在家安静度过寻找身心安定为好。通过冥想或读书等活动调整心态。
+
+财运也不好,避免投资或大额支出,持有现金安全管理。职场小心不要惹是生非,避免与同事冲突。注意健康管理,保持温暖。南方为吉,幸运色为红色和橙色。','12月是整理一年的月份。与其开始新事物,不如用作完成至今所做并准备来年的时间。虽然身体旺盛意志坚定但财富不足,吉凶各半。
+
+大量支出少量收入的局面,需节约计划性地管理财政。可能感觉只是遭受损失而郁闷,但不要急于求成将其作为来年准备期。只有心与财同时具备才能经营,现在忍耐等待是明智之举。
+
+职场专注整理一年工作,制定来年计划。健康可能因年末聚会或过劳而疲惫,需充分休息。以感恩之心收尾一年,准备迎接新年。东方为吉,幸运色为蓝色和绿色。','2025-03-02 03:02:00.953234+00','c');
