@@ -6,7 +6,11 @@
       "Bash(timeout 300 tail:*)",
       "Bash(for f in output/batches/batch_*_enhanced.sql)",
       "Bash(done)",
-      "Bash(python:*)"
+      "Bash(python:*)",
+      "Bash(cut:*)",
+      "Bash(psql:*)",
+      "Bash(for file in input/batches/batch_{002,033,070}_*.sql)",
+      "Bash(do [ -f \"$file\" ])"
     ]
   }
 }
