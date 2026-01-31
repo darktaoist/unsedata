@@ -10,7 +10,9 @@
       "Bash(cut:*)",
       "Bash(psql:*)",
       "Bash(for file in input/batches/batch_{002,033,070}_*.sql)",
-      "Bash(do [ -f \"$file\" ])"
+      "Bash(do [ -f \"$file\" ])",
+      "Bash(findstr:*)",
+      "Bash(copy:*)"
     ]
   }
 }
